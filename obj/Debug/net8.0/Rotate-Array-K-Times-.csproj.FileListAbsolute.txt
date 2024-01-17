@@ -1,0 +1,14 @@
+C:\Users\13608\Documents\GitHub\Rotate-Array-K-Times-\bin\Debug\net8.0\Rotate-Array-K-Times-.exe
+C:\Users\13608\Documents\GitHub\Rotate-Array-K-Times-\bin\Debug\net8.0\Rotate-Array-K-Times-.deps.json
+C:\Users\13608\Documents\GitHub\Rotate-Array-K-Times-\bin\Debug\net8.0\Rotate-Array-K-Times-.runtimeconfig.json
+C:\Users\13608\Documents\GitHub\Rotate-Array-K-Times-\bin\Debug\net8.0\Rotate-Array-K-Times-.dll
+C:\Users\13608\Documents\GitHub\Rotate-Array-K-Times-\bin\Debug\net8.0\Rotate-Array-K-Times-.pdb
+C:\Users\13608\Documents\GitHub\Rotate-Array-K-Times-\obj\Debug\net8.0\Rotate-Array-K-Times-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13608\Documents\GitHub\Rotate-Array-K-Times-\obj\Debug\net8.0\Rotate-Array-K-Times-.AssemblyInfoInputs.cache
+C:\Users\13608\Documents\GitHub\Rotate-Array-K-Times-\obj\Debug\net8.0\Rotate-Array-K-Times-.AssemblyInfo.cs
+C:\Users\13608\Documents\GitHub\Rotate-Array-K-Times-\obj\Debug\net8.0\Rotate-Array-K-Times-.csproj.CoreCompileInputs.cache
+C:\Users\13608\Documents\GitHub\Rotate-Array-K-Times-\obj\Debug\net8.0\Rotate-Array-K-Times-.dll
+C:\Users\13608\Documents\GitHub\Rotate-Array-K-Times-\obj\Debug\net8.0\refint\Rotate-Array-K-Times-.dll
+C:\Users\13608\Documents\GitHub\Rotate-Array-K-Times-\obj\Debug\net8.0\Rotate-Array-K-Times-.pdb
+C:\Users\13608\Documents\GitHub\Rotate-Array-K-Times-\obj\Debug\net8.0\Rotate-Array-K-Times-.genruntimeconfig.cache
+C:\Users\13608\Documents\GitHub\Rotate-Array-K-Times-\obj\Debug\net8.0\ref\Rotate-Array-K-Times-.dll

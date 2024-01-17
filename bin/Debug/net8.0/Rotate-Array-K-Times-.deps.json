@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Rotate-Array-K-Times-/1.0.0": {
+        "runtime": {
+          "Rotate-Array-K-Times-.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rotate-Array-K-Times-/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
